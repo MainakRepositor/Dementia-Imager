@@ -1,0 +1,4 @@
+0 Glioma 
+1 Meningioma 
+2 Safe
+3 Pituitary 
