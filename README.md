@@ -3,7 +3,7 @@
 ## Our Model
 Below is the summary of our CNN model which we have made using python and keras.
 
-### Model for Covid & Pneumonia Classification
+### Model for Dementia Classification
 
 | Layer (type)                  | Output Shape             | Param #     |
 |-------------------------------|--------------------------|-------------|
